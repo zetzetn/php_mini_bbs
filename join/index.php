@@ -1,3 +1,9 @@
+<?php
+if($_POST['name']=== ''){
+	print('名前が入力されていません');
+}
+?>
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
